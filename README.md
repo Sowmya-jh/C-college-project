@@ -1,1 +1,1 @@
-# C-college-project
+# C++college-project
